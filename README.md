@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganeshcd
+- 👋 Hi, I’m @ganeshcd - Ganesh Dandamudi
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on Web Development (MEAN Stack)
